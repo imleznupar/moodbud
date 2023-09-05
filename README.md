@@ -22,12 +22,12 @@ This view allows users to change the appearance of their avatar. For each part (
 
 ## Previews
 <p align="center">
-  <img src="images/moodbud5.png" height="290">
-  <img src="images/moodbud4.png" height="290">
-  <img src="images/moodbud3.png" height="290">
-  <img src="images/moodbud6.png" height="290">
-  <img src="images/moodbud2.png" height="290">
-  <img src="images/moodbud.png" height="290">
+  <img src="images/moodbud5.png" height="250">
+  <img src="images/moodbud4.png" height="250">
+  <img src="images/moodbud3.png" height="250">
+  <img src="images/moodbud6.png" height="250">
+  <img src="images/moodbud2.png" height="250">
+  <img src="images/moodbud.png" height="250">
 </p>
 
 
