@@ -20,6 +20,17 @@ This view allows users to see in calendar view the history of their moods. A bac
 #### Avatar
 This view allows users to change the appearance of their avatar. For each part (hairstyle or clothes), users can swipe to change style and tap to change color.
 
+## Previews
+<p align="center">
+  <img src="images/moodbud5.png" height="250">
+  <img src="images/moodbud4.png" height="250">
+  <img src="images/moodbud3.png" height="250">
+  <img src="images/moodbud2.png" height="250">
+  <img src="images/moodbud.png" height="250">
+</p>
+
+
+
 ## To-do List
 - [ ] Minor bugs
 - [ ] Dark Mode
