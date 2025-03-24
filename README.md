@@ -48,4 +48,4 @@ This view allows users to change the appearance of their avatar. For each part (
 * [iOSAcademy](https://www.youtube.com/@iOSAcademy)
 * [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/)
 
-For further inquiries, please contact jasminelu23@gmail.com
+For further inquiries, please contact leznuparutube@gmail.com
